@@ -34,7 +34,7 @@ _Note: DB_HOST=db | DB_PASSWORD=secret_
 
 ### Frontend:
 
-1. Go to `frontend/app` folder
+1. _[terminal]_ Go to `frontend/app` folder
 2. `npm install`
 3. On `npm run serve` (http://localhost:8080)
 
